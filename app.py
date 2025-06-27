@@ -2,7 +2,6 @@ import os
 import pandas as pd
 import streamlit as st
 from summarizer import generate_summary
-from textblob import TextBlob
 import datetime
 
 # --- Page Config ---
@@ -54,21 +53,11 @@ if "input_text" not in st.session_state:
 # Text area for input
 input_text = st.text_area("📝 Input Text:", value=st.session_state.input_text, height=200, key="input_text")
 
-# --- Spell Check ---
-def get_misspelled_words(text):
-    blob = TextBlob(text)
-    return [word for word in blob.words if word.lower() != str(TextBlob(word).correct()).lower()]
-
+# --- Word & Character Count ---
 if input_text.strip():
     word_count = len(input_text.split())
     char_count = len(input_text)
     st.info(f"📊 Word Count: {word_count} | 🧾 Character Count: {char_count}")
-
-    misspelled = get_misspelled_words(input_text)
-    if misspelled:
-        st.warning(f"🔍 {len(misspelled)} likely misspelled words: {', '.join(misspelled[:5])}")
-    else:
-        st.success("✅ No spelling issues detected!")
 
 # --- Summary Output ---
 if st.button("🚀 Generate Summary"):
@@ -84,7 +73,7 @@ if st.button("🚀 Generate Summary"):
 # --- Footer ---
 st.markdown("---")
 st.markdown(
-    "<p style='text-align: center;'>Built with ❤️ using <a href='https://huggingface.co/t5-small'>T5</a>, "
-    "<a href='https://streamlit.io'>Streamlit</a>, and <a href='https://textblob.readthedocs.io/'>TextBlob</a>.</p>",
+    "<p style='text-align: center;'>Built with ❤️ using <a href='https://huggingface.co/t5-small'>T5</a> and "
+    "<a href='https://streamlit.io'>Streamlit</a>.</p>",
     unsafe_allow_html=True
 )
