@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/2f3e30d09c79448ab24192138fe9a126/artifacts
+end_time: 1750968809210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f3e30d09c79448ab24192138fe9a126
+run_name: adorable-grub-859
+run_uuid: 2f3e30d09c79448ab24192138fe9a126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750968808114
+status: 3
+tags: []
+user_id: keshav

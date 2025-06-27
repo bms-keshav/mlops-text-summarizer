@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/fd327b108222467ea202c31b6acb0a48/artifacts
+end_time: 1750972946418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd327b108222467ea202c31b6acb0a48
+run_name: rare-crab-118
+run_uuid: fd327b108222467ea202c31b6acb0a48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750972944320
+status: 3
+tags: []
+user_id: keshav

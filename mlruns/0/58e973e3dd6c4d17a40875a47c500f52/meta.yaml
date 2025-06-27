@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/58e973e3dd6c4d17a40875a47c500f52/artifacts
+end_time: 1750972682105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58e973e3dd6c4d17a40875a47c500f52
+run_name: awesome-sloth-164
+run_uuid: 58e973e3dd6c4d17a40875a47c500f52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750972679912
+status: 3
+tags: []
+user_id: keshav

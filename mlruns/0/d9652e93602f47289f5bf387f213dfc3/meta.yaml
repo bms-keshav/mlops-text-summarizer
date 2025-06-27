@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/d9652e93602f47289f5bf387f213dfc3/artifacts
+end_time: 1750971599387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9652e93602f47289f5bf387f213dfc3
+run_name: kindly-dolphin-692
+run_uuid: d9652e93602f47289f5bf387f213dfc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750971597527
+status: 3
+tags: []
+user_id: keshav

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/ab261b7582dd49879571d6d0e15ab680/artifacts
+end_time: 1750970582693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab261b7582dd49879571d6d0e15ab680
+run_name: secretive-duck-935
+run_uuid: ab261b7582dd49879571d6d0e15ab680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750970581098
+status: 3
+tags: []
+user_id: keshav

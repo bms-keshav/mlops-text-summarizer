@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/fdcf08003a1445e08424205ccfb34233/artifacts
+end_time: 1748798734223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdcf08003a1445e08424205ccfb34233
+run_name: angry-squid-438
+run_uuid: fdcf08003a1445e08424205ccfb34233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748798731386
+status: 3
+tags: []
+user_id: keshav

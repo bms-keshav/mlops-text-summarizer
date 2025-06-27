@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/4f0e93b5982b4358a338290e24ce7476/artifacts
+end_time: 1750973072913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f0e93b5982b4358a338290e24ce7476
+run_name: burly-lark-580
+run_uuid: 4f0e93b5982b4358a338290e24ce7476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750973071317
+status: 3
+tags: []
+user_id: keshav

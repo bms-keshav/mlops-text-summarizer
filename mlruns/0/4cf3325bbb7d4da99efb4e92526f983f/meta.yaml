@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/4cf3325bbb7d4da99efb4e92526f983f/artifacts
+end_time: 1748922378788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cf3325bbb7d4da99efb4e92526f983f
+run_name: amusing-quail-134
+run_uuid: 4cf3325bbb7d4da99efb4e92526f983f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748922367383
+status: 3
+tags: []
+user_id: keshav

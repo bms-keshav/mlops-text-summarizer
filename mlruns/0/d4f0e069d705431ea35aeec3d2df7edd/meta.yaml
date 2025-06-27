@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/d4f0e069d705431ea35aeec3d2df7edd/artifacts
+end_time: 1750973125673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4f0e069d705431ea35aeec3d2df7edd
+run_name: rumbling-wolf-237
+run_uuid: d4f0e069d705431ea35aeec3d2df7edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750973124896
+status: 3
+tags: []
+user_id: keshav

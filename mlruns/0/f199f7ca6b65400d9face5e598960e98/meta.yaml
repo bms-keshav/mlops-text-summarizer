@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/f199f7ca6b65400d9face5e598960e98/artifacts
+end_time: 1750971699447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f199f7ca6b65400d9face5e598960e98
+run_name: carefree-midge-846
+run_uuid: f199f7ca6b65400d9face5e598960e98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750971697813
+status: 3
+tags: []
+user_id: keshav

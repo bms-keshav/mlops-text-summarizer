@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/617d754680ac4d87bafd40b76b40272a/artifacts
+end_time: 1751002352492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 617d754680ac4d87bafd40b76b40272a
+run_name: likeable-snail-496
+run_uuid: 617d754680ac4d87bafd40b76b40272a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751002349746
+status: 3
+tags: []
+user_id: keshav

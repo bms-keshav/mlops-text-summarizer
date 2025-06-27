@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/d34499090cb041cdab352ab3b33bf41c/artifacts
+end_time: 1750971579911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d34499090cb041cdab352ab3b33bf41c
+run_name: valuable-seal-208
+run_uuid: d34499090cb041cdab352ab3b33bf41c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750971578552
+status: 3
+tags: []
+user_id: keshav

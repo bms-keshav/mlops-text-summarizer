@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/eeb3cebcbfb549e99296242592831167/artifacts
+end_time: 1750972486330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeb3cebcbfb549e99296242592831167
+run_name: capable-chimp-708
+run_uuid: eeb3cebcbfb549e99296242592831167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750972485094
+status: 3
+tags: []
+user_id: keshav

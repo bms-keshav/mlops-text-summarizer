@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/e15656351a3349c192228fe510c76702/artifacts
+end_time: 1748916481556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e15656351a3349c192228fe510c76702
+run_name: enchanting-flea-587
+run_uuid: e15656351a3349c192228fe510c76702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916477744
+status: 3
+tags: []
+user_id: keshav

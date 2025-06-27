@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/c3afb624066143ea972586ad8346ef9e/artifacts
+end_time: 1751002456795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3afb624066143ea972586ad8346ef9e
+run_name: debonair-yak-301
+run_uuid: c3afb624066143ea972586ad8346ef9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751002453408
+status: 3
+tags: []
+user_id: keshav

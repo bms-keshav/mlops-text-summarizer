@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/75133f15db514521aae1687aa76ec724/artifacts
+end_time: 1750970642761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75133f15db514521aae1687aa76ec724
+run_name: incongruous-bear-603
+run_uuid: 75133f15db514521aae1687aa76ec724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750970641197
+status: 3
+tags: []
+user_id: keshav

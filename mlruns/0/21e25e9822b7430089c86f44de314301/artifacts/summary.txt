@@ -1,0 +1,1 @@
+the feature is intended to make it easier for users to access their preferred chats without having to scroll and look for them . users can pin chats by long pressing on them and tapping the pin icon .

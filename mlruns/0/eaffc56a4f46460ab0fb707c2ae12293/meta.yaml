@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/eaffc56a4f46460ab0fb707c2ae12293/artifacts
+end_time: 1750971658217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaffc56a4f46460ab0fb707c2ae12293
+run_name: tasteful-yak-51
+run_uuid: eaffc56a4f46460ab0fb707c2ae12293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750971656478
+status: 3
+tags: []
+user_id: keshav

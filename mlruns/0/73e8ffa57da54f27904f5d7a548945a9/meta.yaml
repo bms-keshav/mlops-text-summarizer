@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/73e8ffa57da54f27904f5d7a548945a9/artifacts
+end_time: 1750972467377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73e8ffa57da54f27904f5d7a548945a9
+run_name: monumental-newt-211
+run_uuid: 73e8ffa57da54f27904f5d7a548945a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750972466004
+status: 3
+tags: []
+user_id: keshav

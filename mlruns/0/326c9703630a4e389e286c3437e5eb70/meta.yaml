@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/326c9703630a4e389e286c3437e5eb70/artifacts
+end_time: 1750972878438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 326c9703630a4e389e286c3437e5eb70
+run_name: efficient-ox-878
+run_uuid: 326c9703630a4e389e286c3437e5eb70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750972876378
+status: 3
+tags: []
+user_id: keshav

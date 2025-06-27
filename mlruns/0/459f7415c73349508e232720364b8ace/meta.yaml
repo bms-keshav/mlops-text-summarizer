@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/459f7415c73349508e232720364b8ace/artifacts
+end_time: 1750972860944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 459f7415c73349508e232720364b8ace
+run_name: judicious-squid-990
+run_uuid: 459f7415c73349508e232720364b8ace
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750972858878
+status: 3
+tags: []
+user_id: keshav

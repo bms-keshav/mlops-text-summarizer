@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/8b0dd1b7a817405ba126fd0e5c4f1ce0/artifacts
+end_time: 1748923063603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b0dd1b7a817405ba126fd0e5c4f1ce0
+run_name: merciful-bear-586
+run_uuid: 8b0dd1b7a817405ba126fd0e5c4f1ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748923052088
+status: 3
+tags: []
+user_id: keshav

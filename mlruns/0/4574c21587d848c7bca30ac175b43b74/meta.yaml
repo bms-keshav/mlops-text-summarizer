@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/4574c21587d848c7bca30ac175b43b74/artifacts
+end_time: 1748945465627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4574c21587d848c7bca30ac175b43b74
+run_name: carefree-rat-104
+run_uuid: 4574c21587d848c7bca30ac175b43b74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748945457938
+status: 3
+tags: []
+user_id: keshav

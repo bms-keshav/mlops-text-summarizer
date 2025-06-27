@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/d80ae2c6154f447db37b5dbd1bce8566/artifacts
+end_time: 1750969529086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d80ae2c6154f447db37b5dbd1bce8566
+run_name: honorable-shrike-213
+run_uuid: d80ae2c6154f447db37b5dbd1bce8566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750969527521
+status: 3
+tags: []
+user_id: keshav

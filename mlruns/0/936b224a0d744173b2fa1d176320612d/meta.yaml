@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/936b224a0d744173b2fa1d176320612d/artifacts
+end_time: 1748920995836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 936b224a0d744173b2fa1d176320612d
+run_name: amazing-quail-63
+run_uuid: 936b224a0d744173b2fa1d176320612d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748920991633
+status: 3
+tags: []
+user_id: keshav

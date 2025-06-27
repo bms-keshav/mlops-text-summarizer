@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/keshav/Desktop/mlops-text-summarizer/mlruns/0/901327106ce04b80aa4b3057bde06e2c/artifacts
+end_time: 1751002218156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 901327106ce04b80aa4b3057bde06e2c
+run_name: adventurous-bee-566
+run_uuid: 901327106ce04b80aa4b3057bde06e2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751002212875
+status: 3
+tags: []
+user_id: keshav
